@@ -25,3 +25,4 @@ hs_err_pid*
 out/
 .idea
 file-search/file-search.iml
+file-search/

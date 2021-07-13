@@ -11,6 +11,4 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
-    //我做了修改1(1)
-    //我做了修改2
 }

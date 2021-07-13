@@ -12,5 +12,6 @@ public class Test {
         System.out.println("Hello world!");
         //测试合并dev分支到master分支上
         //测试（听我的）
+        //我做了修改2
     }
 }
